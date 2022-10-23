@@ -1,0 +1,23 @@
+body {
+    background-color: #b6e2f8;
+}
+
+h1 {
+    color: #66BFBF;
+}
+h3 {
+    color: #66BFBF;
+}
+
+hr {
+    background-color: #b6e2f8;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(185, 184, 184);
+    border-width: 5px;
+    width: 7%;
+}
+
+table:hover {
+    color: antiquewhite;
+}
